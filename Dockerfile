@@ -1,6 +1,6 @@
 FROM node:14
 
-# Next.js port
+# Strapi port
 ENV PORT 4000
 
 # Create app directory

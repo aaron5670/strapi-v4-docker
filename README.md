@@ -2,5 +2,6 @@
 Strapi V4 beta in Docker Compose.
 
 ## How to run Strapi on Docker
-1. ``docker-compose up``
-2. The strapi starts in develop mode
+1. Start Docker
+2. Run ``docker-compose up``
+3. Go to http://localhost:4000/admin

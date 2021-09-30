@@ -1,0 +1,8 @@
+version: "3"
+services:
+  strapi-v4:
+    build: .
+    container_name: strapi-v4
+    ports:
+      - "4000:4000"
+    restart: always
